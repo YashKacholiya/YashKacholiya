@@ -1,5 +1,5 @@
-# 💫 About Me:
- Hi, I'm Yash Kacholiya 👋<br>🎓 Computer Engineering Student<br>💻 Aspiring Software Developer<br>🚀 Building projects and turning ideas into reality
+# 💫  Hi, I'm Yash Kacholiya 👋
+<br>🎓 Computer Engineering Student<br>💻 Aspiring Software Developer<br>🚀 Building projects and turning ideas into reality
 
 
 ## 🌐 Socials:
